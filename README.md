@@ -31,3 +31,9 @@ The analysis of the election shows that:
 ## Challenge Overview
 
 # Challenge Summary
+
+## Overview of Election Audit
+
+## Election Audit Results
+
+## Election Audit Summary
