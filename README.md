@@ -35,5 +35,8 @@ The analysis of the election shows that:
 ## Overview of Election Audit
 
 ## Election Audit Results
-
+*Denver had 82.8% of the vote and 306,055 votes. 
+*Jefferson had 10.5% of the vote and 38,855 votes.
+*Arapahoe had 6.7% of the vote and 24,801 votes. 
 ## Election Audit Summary
+*The county with the largest turnout was Denver with 82.8% of the vote and 306,055 votes. 
